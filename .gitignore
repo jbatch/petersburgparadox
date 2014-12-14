@@ -1,0 +1,4 @@
+*.out
+*.o
+ParadoxSimulation
+.DS_Store
